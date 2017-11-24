@@ -1,5 +1,5 @@
 <?php
-
+//入口文件
 ini_set("display_errors", "On");
 
 include("./functions.php");
